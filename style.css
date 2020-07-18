@@ -1,0 +1,23 @@
+p{
+  font-family:Arial, sans-serif;
+  font-size:24px;
+  color:Sienna;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  text-align:center;
+  color:#454545;
+}
+.definition{
+  font-family: 'Comfortaa', cursive;
+  font-size:30px;
+  color:Gray;
+}
+a,pre{
+  color:Silver;
+  font-family:Arial, sans-serif;
+}
+figcaption{
+ color: MAROON;
+ font-family: 'Archivo Black', sans-serif;
+}
