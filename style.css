@@ -2,6 +2,7 @@ p{
   font-family:Arial, sans-serif;
   font-size:24px;
   color:Sienna;
+  padding:20px;
 }
 h1{
   font-family: 'Permanent Marker', cursive;
@@ -12,12 +13,11 @@ h1{
   font-family: 'Comfortaa', cursive;
   font-size:30px;
   color:Gray;
+  padding:20px;
 }
 a,pre{
   color:Silver;
   font-family:Arial, sans-serif;
+  padding:20ox
 }
-figcaption{
- color: MAROON;
- font-family: 'Archivo Black', sans-serif;
-}
+
