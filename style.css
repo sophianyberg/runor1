@@ -17,6 +17,7 @@ h1,h2{
 }
 a,pre{
   color:Silver;
+  font-size: 18px;
   font-family:Arial, sans-serif;
   margin:60px;
 }
